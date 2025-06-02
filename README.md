@@ -1,4 +1,4 @@
-# TEXT REVISER ✨(ALURA ROADMAP - Stage 2 ✨) EDITAR!!!!!!
+# TEXT REVISER ✨(ALURA ROADMAP - Stage 2 ✨)
 
 ## Project Description
 
